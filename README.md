@@ -1,2 +1,2 @@
 # CloudBroadcaster
-Your open source self-hosted cloud Broadcast Studio
+Your open source self-hosted Studio for Broadcasting & Editing media!
